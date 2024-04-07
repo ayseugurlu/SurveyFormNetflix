@@ -7,6 +7,9 @@ body{
 
 .baslik{
     color: white;
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 100%;
+    margin: 0 auto;
 }
 
 
@@ -37,8 +40,7 @@ h3{
     font-size: 23px;
     font-family: "Sorts Mill Goudy", serif;
     margin:auto;
-    width: 50%;
-    text-align: justify;
+    text-align: center;
 }
 
 
@@ -52,11 +54,7 @@ h3{
 
     
 }
-.ortala{
-    
-    
 
-}
 
 #submit{
     background-color: red;
