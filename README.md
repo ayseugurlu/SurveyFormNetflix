@@ -23,6 +23,8 @@ Project goals to create survey form within HTML and CSS.
 ```
 
 ## Expected Outcome
+![image](https://github.com/ayseugurlu/SurveyFormNetflix/assets/164202619/6f98adbd-f9ca-42cb-a2cc-fc6085f47a1b)
+
 
 
 ![Netflix-Survey-GoogleChrome2024-04-0816-26-22-ezgif com-video-to-gif-converter](https://github.com/ayseugurlu/SurveyFormNetflix/assets/164202619/5f290fc3-fd8e-4b9c-8609-7cf9afc262a2)
