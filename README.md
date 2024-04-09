@@ -1,7 +1,7 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-001 :Survey Form (HC-01)
+# Project-1 Survey Form Netflix
 
 ## Description
 Project goals to create survey form within HTML and CSS.
